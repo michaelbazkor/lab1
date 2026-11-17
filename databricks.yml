@@ -1,0 +1,10 @@
+bundle:
+  name: lab1
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://adb-7405616428502221.1.azuredatabricks.net
+      profile: lab1

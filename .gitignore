@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Databricks extension / bundle state
+.databricks/
+.bundle/
+
+# Credentials
+.env
+.databrickscfg
+
+# Course material (do not redistribute in a public repo)
+*.pdf
+
+# Submission artifacts
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
